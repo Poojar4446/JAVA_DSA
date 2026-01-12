@@ -49,7 +49,4 @@ Phase 5: Advanced Algorithms
 [ ] Greedy Algorithms
 [ ] Backtracking (N-Queens, Sudoku Solver)
 [ ] Dynamic Programming (1D, 2D DP)
-
-
-
-[ ] Graphs (BFS, DFS, Dijkstra, Prim's, Kruskal's)
+[ ] Graphs (BFS, DFS, Dijkstra, Prim's, Kruskal's)...
