@@ -10,10 +10,10 @@ Welcome to my **Java DSA** repository! 🚀 This repository documents my end-to-
 ## 📂 Repository Structure
 The repository is organized by topic. Each folder contains the implementation of the data structure or algorithm along with practice problems.
 JAVA_DSA
- 01-Arrays
- 02-Strings
- 03-LinkedLists
- 04-Stacks-Queues
+ 01-Arrays,
+ 02-Strings,
+ 03-LinkedLists,
+ 04-Stacks-Queues,
  ...
  README.md
 
